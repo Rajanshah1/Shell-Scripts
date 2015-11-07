@@ -1,2 +1,2 @@
 # Shell-Scripts
-A collection of useful shell scripts.
+A collection of useful Linux shell scripts.
